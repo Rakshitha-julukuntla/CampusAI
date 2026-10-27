@@ -1,0 +1,36 @@
+<!-- source_url: https://bvrithyderabad.edu.in/research/patents-granted -->
+# Patents Granted – BVRIT HYDERABAD College of Engineering for Women
+
+Source: https://bvrithyderabad.edu.in/research/patents-granted
+
+Smart Classroom Virtual Reality Head Mounted Display Device For Visual-Spatial Learners
+
+- Title: Smart Classroom Virtual Reality Head Mounted Display Device For Visual-Spatial Learners
+
+- Applicants: K V N Sunitha, Dr. Aruna Rao S L, Dr. P. Kayal
+
+- Application No: 202041052429
+
+- Date of Grant: 25/04/2025
+
+- Patent No. : 565557
+
+PRETREATED RICE HUSK FOR THE SUSTAINABLE GRAPHENE OXIDE FOR ADSORPTIVE REMOVAL OF CHROMIUM FROM WATER
+
+Pretreated Rice husk for the Sustainable Graphene Oxide for adsorptive removal of chromium from water Name of the Applicant: Dr V Madhavi, BSH (Chemistry) Application. No: 202141006201 Date of Certificate Issue: 31-10-2022
+
+A PORTABLE MEDICINE IDENTIFICATION AND ALERTING SYSTEM FOR VISUALLY CHALLENGED PEOPLE AND GERIATRICS
+
+Applicants: Dr K V N Sunitha, Dr J Naga Vishnu Vardhan, Dr S L Aruna Rao
+
+Patent No: 531064
+
+Date of Grant :29/03/2024
+
+REAL-TIME PARKING SPACE PREDICTION SYSTEM
+
+Applicants: Dr. G. Naga Satish, Dr. K. V. N. Sunitha, Prof. R. S. Murali Nath,Ms. D. Swapna
+
+Patent No: 500484
+
+Date of Grant: 17/01/ 2024

@@ -1,0 +1,31 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+python-dotenv==1.0.1
+pydantic-settings==2.7.1
+email-validator==2.2.0
+
+# Database (MySQL)
+sqlalchemy==2.0.36
+pymysql==1.1.1
+cryptography==44.0.0
+
+# Auth (JWT)
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+
+# RAG stack
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-text-splitters==0.3.5
+langchain-chroma==0.2.4
+langchain-huggingface==0.1.2
+langchain-google-genai==2.0.8
+chromadb==1.0.21
+sentence-transformers==3.3.1
+pypdf==5.1.0
+
+# Website scraper
+requests>=2.32.3
+beautifulsoup4==4.12.3

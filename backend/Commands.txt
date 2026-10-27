@@ -1,0 +1,19 @@
+Backend
+
+cd C:\Users\Rakshitha\Downloads\CampusAI\campusai\backend
+.\venv\Scripts\activate
+uvicorn app.main:app --reload --port 8000
+
+
+Terminal 2: Frontend
+
+
+
+cd C:\Users\Rakshitha\Downloads\CampusAI\campusai\frontend
+npm run dev
+
+
+Admin login:
+
+Email: admin@campusai.in
+Password: admin123
